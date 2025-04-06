@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Willow (willowthecoder)
 
-<!--
-**willowthecoder/willowthecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught web developer focused and  currently exploring **full-stack** development. 
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🎮 **[Simon Says Game](#)** – A fun memory game using vanilla JS
+- 📺 **[Netflix Clone](#)** – Responsive UI built with HTML & CSS
+- 🎧 **[Spotify Clone](#)** – Clean layout and styling from scratch
+- 🌐 **[Quora REST API](#)** – Practicing backend routes and RESTful structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+`HTML` `CSS` `JavaScript` `EJS` `Node.js` *(learning more daily)*
+
+## 📫 Let's Connect
+Feel free to reach out or explore my projects here on GitHub.
+
+---
+
+*Currently open to internships or junior frontend roles to learn and contribute in a startup environment.*
