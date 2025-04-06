@@ -9,7 +9,8 @@ I'm a self-taught web developer focused and  currently exploring **full-stack** 
 - 🌐 **[Quora REST API](#)** – Practicing backend routes and RESTful structure
 
 ## 🛠 Tech Stack
-`HTML` `CSS` `JavaScript` `EJS` `Node.js` *(learning more daily)*
+`HTML` `CSS` `JavaScript` `EJS` `Node.js`
+Currently learning SQL 
 
 ## 📫 Let's Connect
 Feel free to reach out or explore my projects here on GitHub.
