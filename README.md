@@ -7,6 +7,8 @@ I'm a self-taught web developer focused and  currently exploring **full-stack** 
 - 📺 **[Netflix Clone](#)** – Responsive UI built with HTML & CSS
 - 🎧 **[Spotify Clone](#)** – Clean layout and styling from scratch
 - 🌐 **[Quora REST API](#)** – Practicing backend routes and RESTful structure
+- 🛢 **[User Management Using SQL](#)** – Practicing integrating SQL with Node.js 
+- 
 
 ## 🛠 Tech Stack
 `HTML` `CSS` `JavaScript` `EJS` `Node.js`
