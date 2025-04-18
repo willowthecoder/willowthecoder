@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Willow (willowthecoder)
 
 I'm a self-taught web developer focused and  currently exploring **full-stack** development. 
+I'm also a UI UX learning designer who loves and practice good design 
 
 ## 🚀 Projects
 - 🎮 **[Simon Says Game](#)** – A fun memory game using vanilla JS
@@ -13,7 +14,7 @@ I'm a self-taught web developer focused and  currently exploring **full-stack** 
 
 ## 🛠 Tech Stack
 `HTML` `CSS` `JavaScript` `EJS` `Node.js`
-Currently learning SQL 
+Currently learning MongoDB and UI UX  
 
 ## 📫 Let's Connect
 Feel free to reach out or explore my projects here on GitHub.
