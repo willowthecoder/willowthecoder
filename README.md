@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Willow (willowthecoder)
 
 I'm a self-taught web developer focused and  currently exploring **full-stack** development. 
-I'm also a UI UX learning designer who loves and practice good design 
+I am also interested in the fields of Datascience , AI/ML , cybersecurity and hope to explore them in the future.
+I'm also a UI UX learning designer who loves and practice good design.
+I have designed some basic prototyping ,wireframing and designing in Figma . 
 
 ## 🚀 Projects
 - 🎮 **[Simon Says Game](#)** – A fun memory game using vanilla JS
@@ -21,4 +23,4 @@ Feel free to reach out or explore my projects here on GitHub.
 
 ---
 
-*Currently open to internships or junior frontend roles to learn and contribute in a startup environment.*
+*Currently open to internships or junior frontend and backend or fullstack roles to learn and contribute in a startup environment.*
