@@ -9,7 +9,7 @@ As a **UI/UX enthusiast**, I value clean and accessible design. I’ve worked on
 ## 🛠 Tech Stack
 
 **Frontend**
-`HTML`, `CSS`, `JavaScript`, `React`, `Bootstrap`, `Chakra UI`
+`HTML`, `CSS`, `JavaScript`, `React`, `Bootstrap`, `Chakra UI` ,`Daisy UI` , `ShadnCN` 
 
 **Backend**
 `Node.js`, `Express.js`
@@ -21,7 +21,7 @@ As a **UI/UX enthusiast**, I value clean and accessible design. I’ve worked on
 `Zustand`
 
 **Deployment**
-`Netlify`, `Render`
+`Netlify`, `Render` ,`Vercel`
 
 **Design Tools**
 `Figma`
