@@ -9,7 +9,7 @@ As a **UI/UX enthusiast**, I value clean and accessible design. I’ve worked on
 ## 🛠 Tech Stack
 
 **Frontend**
-`HTML`, `CSS`, `JavaScript`, `React`, `Bootstrap`, `Chakra UI` ,`Daisy UI` , `ShadnCN` 
+`HTML`, `CSS`, `JavaScript`, `React`, `Bootstrap`, `Chakra UI` ,`Daisy UI` , `ShadnCN` ,`Aceternity UI`
 
 **Backend**
 `Node.js`, `Express.js`
